@@ -1,34 +1,31 @@
-# MakeUp - Ultra Fast
-High performance Minecraft shader (Java).
+# MakeUp - UltraFast: Ringed
+Officially supported shaders for [PanchoRing](https://github.com/CapNapu/PanchoRing)
 
-## Version: 8.6g (Iris): Darkness
+Forked from [MakeUp - UltraFast](https://github.com/javiergcim/MakeUpUltraFast/tree/legacy) by Javier Garduño
 
-### This branch (legacy) works on Optifine and Iris
+# Changes
 
-## Main features
-* Optional shadows
-* Optional volumetric clouds
-* Antialiasing (TAA)
-* Depth of field
-* Enhanced ambient occlusion
-* Water reflection and refraction
-* Motion blur
-* Optional bloom
-* Optional chromatic aberration
-* Auto-exposure
-* Shader for all native dimensions
-* And more...
-* FAST!
+### Simplified Presets:
 
-## Tested on:
-* Minecraft 1.12.+ - 1.19.x
-* Nvidia and Intel
-* Windows and Linux
+| Preset  | Description                         |
+|:-------:|:-----------------------------------:|
+| Low     | Performance: no shadows, no effects |
+| Medium  | Balanced: low shadows, some effects |
+| High    | Quality: high shadows, many effects |
 
-## You can:
-* You can use the shader without restrictions.
-* You can fork the shader from: [https://github.com/javiergcim/MakeUpUltraFast](https://github.com/javiergcim/MakeUpUltraFast)
-* You can modify this shader for any purpose.
-* If you modify or use the shader please add a credit, and the official URLs if possible: [https://www.planetminecraft.com/mod/makeup-ultra-fast-shader/](https://www.planetminecraft.com/mod/makeup-ultra-fast-shader/), [https://www.curseforge.com/minecraft/customization/makeup-ultra-fast-shader](https://www.curseforge.com/minecraft/customization/makeup-ultra-fast-shader) and/or [https://github.com/javiergcim/MakeUpUltraFast](https://github.com/javiergcim/MakeUpUltraFast)
+### Extended Mod Support:
+- Project: Vibrant Journeys
+- Supplementaries
+- Ice and Fire: Dragons
+- Ars Nouveau
+- Alex's Mobs
+- Expanded Caves
+- Infernal Expansion
+- End's Phantasm
+- Majrusz's Progressive Difficulty
+- Bosses of Mass Destruction
+- L_Ender's Cataclysm
+- SlabGen
 
-Notification is not required, but would be appreciated.
+### Translations Backport:
+- Spanish (es_MX)

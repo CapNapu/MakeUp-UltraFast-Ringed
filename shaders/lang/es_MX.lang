@@ -1,0 +1,217 @@
+# Perfiles
+############################
+profile.low=Bajo
+profile.medium=Medio
+profile.high=Alto
+
+profile.comment=Prueba las opciones disponibles y usa la que mejor te funcione.
+
+# Acerca de
+#############################
+option.ACERCADE=MakeUp
+option.ACERCADE.comment=¡Gracias por usar este shader!
+value.ACERCADE.0=v.8.6g Ringed
+
+# Opciones
+#############################
+option.SHADOW_CASTING=Sombras
+
+option.SHADOW_DISTANCE_SLIDER=Distancia de sombras
+value.SHADOW_DISTANCE_SLIDER.0=Corta
+value.SHADOW_DISTANCE_SLIDER.1=Media
+value.SHADOW_DISTANCE_SLIDER.2=Larga
+
+option.SHADOW_QTY_SLIDER=Calidad de sombras
+value.SHADOW_QTY_SLIDER.0=Ninguna
+value.SHADOW_QTY_SLIDER.1=Baja
+value.SHADOW_QTY_SLIDER.2=Media
+value.SHADOW_QTY_SLIDER.3=Alta
+
+option.REFLECTION_SLIDER=Reflejo
+value.REFLECTION_SLIDER.0=No
+value.REFLECTION_SLIDER.1=Img. inversa
+value.REFLECTION_SLIDER.2=Raymarching
+
+option.SHADOW_TYPE=Tipo de sombra
+value.SHADOW_TYPE.0=Simple
+value.SHADOW_TYPE.1=Filtrada
+
+option.SHADOW_BLUR=Intensidad del desenfoque de sombra
+
+option.COLORED_SHADOW=Sombras coloreadas
+
+option.VOL_LIGHT=Rayos de luz
+value.VOL_LIGHT.0=No
+value.VOL_LIGHT.1=Profundos
+value.VOL_LIGHT.2=Volumétricos
+
+option.DOF=Profundidad de campo
+
+option.DOF_STRENGTH=Intensidad de PdC
+
+option.DOF_SAMPLES_FACTOR=Factor de muestras de PdC
+
+option.AO=Oclusión ambiental
+value.AO.0=No
+value.AO.1=Si
+
+option.AOSTEPS=Muestras de oclusión
+
+option.AO_STRENGHT=Intensidad de oclusión
+
+option.AA_TYPE=Muestreo temporal
+value.AA_TYPE.0=No
+value.AA_TYPE.1=Quitar ruido
+value.AA_TYPE.2=TAA
+value.AA_TYPE.3=TAA Agudo
+
+option.MOTION_BLUR=Desenfoque de movimiento
+option.MOTION_BLUR_STRENGTH=Intensidad del desenfoque
+option.MOTION_BLUR_SAMPLES=Muestras de desenfoque
+
+option.VANILLA_WATER=Agua estilo Vanilla
+
+option.WATER_TEXTURE=Textura de agua
+value.WATER_TEXTURE.0=No
+value.WATER_TEXTURE.1=Sí
+
+option.WATER_COLOR_SOURCE=Color del agua
+value.WATER_COLOR_SOURCE.0=Esquema del Shader
+value.WATER_COLOR_SOURCE.1=Paquete de recursos
+
+option.REFLECTION=Reflejos
+value.REFLECTION.0=No
+value.REFLECTION.1=Si
+
+option.REFRACTION=Refracción
+value.REFRACTION.0=No
+value.REFRACTION.1=Si
+
+option.SSR_TYPE=Tipo de reflejo
+value.SSR_TYPE.0=Imagen invertida
+value.SSR_TYPE.1=Raymarching
+
+option.SUN_REFLECTION=Reflejo solar
+value.SUN_REFLECTION.0=No
+value.SUN_REFLECTION.1=Si
+
+option.CLOUD_REFLECTION=Reflejo de nubes volumétricas
+
+option.WAVING=Movimiento de plantas
+value.WAVING.0=No
+value.WAVING.1=Sí
+
+option.CHROMA_ABER=Aberración cromática
+value.CHROMA_ABER.0=No
+value.CHROMA_ABER.1=Sí
+
+option.CHROMA_ABER_STRENGHT=Intensidad de aberración cromática
+
+option.WATER_ABSORPTION=Índice de absorción del agua
+
+option.WATER_TURBULENCE=Intensidad de las olas
+value.WATER_TURBULENCE.7.0=Muy baja
+value.WATER_TURBULENCE.1.75=Baja
+value.WATER_TURBULENCE.0.9=Media
+value.WATER_TURBULENCE.0.5=Alta
+
+option.COLOR_SCHEME=Esquema de color
+value.COLOR_SCHEME.0=Etéreo
+value.COLOR_SCHEME.1=New Shoka
+value.COLOR_SCHEME.2=Shoka
+value.COLOR_SCHEME.3=Clásico
+value.COLOR_SCHEME.4=Captain
+value.COLOR_SCHEME.5=Psicodélico
+value.COLOR_SCHEME.6=Cacao
+
+option.V_CLOUDS=Nubes
+value.V_CLOUDS.0=Vanilla
+value.V_CLOUDS.1=Vol. estáticas
+value.V_CLOUDS.2=Vol. dinámicas
+
+option.CLOUD_VOL_STYLE=Estilo de nube volumétrica
+value.CLOUD_VOL_STYLE.0=Natural
+value.CLOUD_VOL_STYLE.1=Cúbica
+
+option.CLOUD_SPEED=Velocidad de nubes
+value.CLOUD_SPEED.0=Normal
+value.CLOUD_SPEED.1=Lapso 1
+value.CLOUD_SPEED.2=Lapso 2
+
+option.CLOUD_STEPS_AVG=Muestras de nubes
+
+option.BLOOM=Brillo
+
+option.COLOR_BLINDNESS=Daltonismo
+
+option.COLOR_BLIND_MODE=Tipo de daltonismo
+value.COLOR_BLIND_MODE.0=Protanopía
+value.COLOR_BLIND_MODE.1=Deuteranopía
+value.COLOR_BLIND_MODE.2=Tritanopía
+
+option.DEBUG_MODE=Modo de depuración
+
+option.BLOOM_SAMPLES=Muestras de brillo
+
+option.BLACK_ENTITY_FIX=Arreglo de entidades negras
+value.BLACK_ENTITY_FIX.0=No
+value.BLACK_ENTITY_FIX.1=Si
+
+option.FOG_ADJUST=Intensidad de la niebla
+value.FOG_ADJUST.10.0=Ultrabaja
+value.FOG_ADJUST.8.0=Muy baja
+value.FOG_ADJUST.4.0=Baja
+value.FOG_ADJUST.2.0=Media
+value.FOG_ADJUST.1.0=Alta
+
+option.BLOCKLIGHT_TEMP=Temperatura de la luz de bloque
+value.BLOCKLIGHT_TEMP.0=Más cálida
+value.BLOCKLIGHT_TEMP.1=Cálida
+value.BLOCKLIGHT_TEMP.2=Amarilla
+value.BLOCKLIGHT_TEMP.3=Amarillo pálido
+value.BLOCKLIGHT_TEMP.4=Luz blanca
+
+option.sunPathRotation=Ángulo del sol
+
+option.USE_BASIC_SH=Shader básico para dimensiones personalizadas
+
+option.MATERIAL_GLOSS=Brillo del material
+
+option.SIMPLE_AUTOEXP=Exposición sencilla
+
+# Pantallas
+screen.ADVANCED_SCREEN=Opciones avanzadas
+screen.ADVANCED_SCREEN.comment=Configurar opciones avanzadas
+
+screen.SHADOWS_SCREEN=Sombras
+screen.SHADOWS_SCREEN.comment=Configurar opciones de sombras
+
+screen.DOF_SCREEN=Profundidad de campo
+screen.DOF_SCREEN.comment=Configurar la profundidad de campo
+
+screen.AO_SCREEN=Oclusión ambiental
+screen.AO_SCREEN.comment=Configurar la oclusión ambiental
+
+screen.WATER_SCREEN=Agua
+screen.WATER_SCREEN.comment=Configurar el agua
+
+screen.POST_SCREEN=Efectos posteriores
+screen.POST_SCREEN.comment=Configurar efectos posteriores
+
+screen.CLOUDS_SCREEN=Nubes
+screen.CLOUDS_SCREEN.comment=Configurar las nubes
+
+screen.SUN_SCREEN=Sol
+screen.SUN_SCREEN.comment=Configurar el sol
+
+screen.FOG_SCREEN=Niebla
+screen.FOG_SCREEN.comment=Configurar la niebla
+
+screen.MOTION_BLUR_SCREEN=Desenfoque de movimiento
+screen.MOTION_BLUR_SCREEN.comment=Configurar desenfoque de movimiento
+
+screen.ACCESIBILITY_SCREEN=Accesibilidad
+screen.ACCESIBILITY_SCREEN.comment=Configurar opciones de accesibilidad
+
+screen.DEBUG_SCREEN=Opciones de depuración
+screen.DEBUG_SCREEN.comment=Configurar opciones de depuración

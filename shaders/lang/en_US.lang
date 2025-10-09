@@ -1,22 +1,16 @@
 #Profiles
 ############################
-profile.no_effects=No effects
-profile.shadowless_low=Shadowless Low
-profile.shadowless_medium=Shadowless Medium
-profile.shadowless_high=Shadowless High
 profile.low=Low
 profile.medium=Medium
 profile.high=High
-profile.extreme=Extreme
-profile.extremeplus=Extreme+
 
-profile.comment=The "shadowless" profiles are designed for low-performance machines, disregarding the shadows. Traditional profiles slowly add higher quality shadows and more advanced heavy effects. Please experiment with the available options and find the best combination for you.
+profile.comment=Try out the available options and use the one that works best.
 
 #About
 #############################
 option.ACERCADE=MakeUp
-option.ACERCADE.comment=Thanks for using this shader! :). Set Optifine native quality controls on normal or default values for better quality.
-value.ACERCADE.0=v.8.6g Iris
+option.ACERCADE.comment=Thanks for using this shader!
+value.ACERCADE.0=v.8.6g Ringed
 
 #Options
 #############################
@@ -53,7 +47,7 @@ value.VOL_LIGHT.2=Volumetric
 
 option.DOF=Depth of field
 
-option.DOF_STRENGTH=DoF strenght
+option.DOF_STRENGTH=DoF strength
 
 option.DOF_SAMPLES_FACTOR=DoF samples factor
 
@@ -130,14 +124,10 @@ value.COLOR_SCHEME.4=Captain
 value.COLOR_SCHEME.5=Psychedelic
 value.COLOR_SCHEME.6=Cocoa
 
-option.AVOID_DARK_LEVEL=Cave brightness
-
-option.NIGHT_BRIGHT=Night brightness
-
 option.V_CLOUDS=Clouds
 value.V_CLOUDS.0=Vanilla
-value.V_CLOUDS.1=Volumetric static
-value.V_CLOUDS.2=Volumetric dyn.
+value.V_CLOUDS.1=Vol. static
+value.V_CLOUDS.2=Vol. dynamic.
 
 option.CLOUD_VOL_STYLE=Volumetric cloud style
 value.CLOUD_VOL_STYLE.0=Natural
@@ -189,8 +179,6 @@ option.MATERIAL_GLOSS=Material gloss
 
 option.SIMPLE_AUTOEXP=Simpler exposure
 
-option.DYN_HAND_LIGHT=Fake dynamic light
-
 #Screens
 screen.ADVANCED_SCREEN=Advanced options
 screen.ADVANCED_SCREEN.comment=Set advanced options
@@ -209,9 +197,6 @@ screen.WATER_SCREEN.comment=Set water options.
 
 screen.POST_SCREEN= Post effects options
 screen.POST_SCREEN.comment=Set post effects options.
-
-screen.DARKNESS_SCREEN=Darkness options
-screen.DARKNESS_SCREEN.comment=Set brightness/darkness options.
 
 screen.CLOUDS_SCREEN=Clouds options
 screen.CLOUDS_SCREEN.comment=Set clouds options.
