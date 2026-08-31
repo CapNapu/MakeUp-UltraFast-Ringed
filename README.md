@@ -12,6 +12,7 @@ Forked from [MakeUp - UltraFast](https://github.com/javiergcim/MakeUpUltraFast/t
 | Low     | Performance: no shadows, no effects |
 | Medium  | Balanced: low shadows, some effects |
 | High    | Quality: high shadows, many effects |
+| Ultra   | Quality+: high shadows, all effects |
 
 ### Extended Mod Support:
 - Project: Vibrant Journeys

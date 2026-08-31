@@ -3,6 +3,7 @@
 profile.low=Bajo
 profile.medium=Medio
 profile.high=Alto
+profile.ultra=Ultra
 
 profile.comment=Prueba las opciones disponibles y usa la que mejor te funcione.
 
@@ -10,7 +11,7 @@ profile.comment=Prueba las opciones disponibles y usa la que mejor te funcione.
 #############################
 option.ACERCADE=MakeUp
 option.ACERCADE.comment=¡Gracias por usar este shader!
-value.ACERCADE.0=v.8.6g Ringed
+value.ACERCADE.0=v.8.6g Ringed v2
 
 # Opciones
 #############################
